@@ -36,5 +36,5 @@ private:
 	Vector2D m_position;
 };
 
-#endif /* defined (__GAME_OBJECT__) *
+#endif /* defined (__GAME_OBJECT__) */
 
